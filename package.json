@@ -9,9 +9,13 @@
   "author": "Aleksandar Debeljak",
   "license": "ISC",
   "dependencies": {
-    "grunt": "^1.0.1"
+    "autoprefixer": "^7.1.2",
+    "cssnano": "^3.10.0",
+    "grunt": "^1.0.1",
+    "pixrem": "^4.0.1"
   },
   "devDependencies": {
-    "grunt-contrib-sass": "^1.0.0"
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-postcss": "^0.8.0"
   }
 }
