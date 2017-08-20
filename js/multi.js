@@ -1,6 +1,6 @@
 function hide(){
 	var tekst = "telenor";
-	table = document.getElementById("tabela");
+	table = document.getElementById("tab");
 	var n = table.rows.length;
 	var x = 1;
 	do{

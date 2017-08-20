@@ -44,7 +44,7 @@ function getNearbyPlaces(location, map) {
       }
       (function sortTable() {
         var table, rows, switching, i, x, y, shouldSwitch;
-        table = document.getElementById("tabela");
+        table = document.getElementById("tab");
         switching = true;
         while (switching) {
           switching = false;
